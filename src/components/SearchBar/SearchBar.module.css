@@ -1,0 +1,9 @@
+.headerWraper {
+  background-color: rgb(81, 50, 128);
+}
+
+.searchForm {
+  padding: 30px 0;
+  display: flex;
+  justify-content: center;
+}
